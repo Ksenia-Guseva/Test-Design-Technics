@@ -3,7 +3,7 @@
 
 [Таблица принятия решений для мобильного приложения Яндекс Метро](https://docs.google.com/spreadsheets/d/1alWUJJJSN-AQidvQCGVKlx8gEa54b2lE9neg9keVJQE/edit?usp=sharing) 
 
-[Парное тестирование для мобильного приложения Яндекс Метро](https://docs.google.com/spreadsheets/d/1alWUJJJSN-AQidvQCGVKlx8gEa54b2lE9neg9keVJQE/edit?usp=sharing) 
+[Попарное тестирование для мобильного приложения Яндекс Метро](https://docs.google.com/spreadsheets/d/1alWUJJJSN-AQidvQCGVKlx8gEa54b2lE9neg9keVJQE/edit?usp=sharing) 
 
 [Диаграмма состояний и переходов](https://docs.google.com/document/d/1fSQlmiT0C2zqYiYmuT_aQ0GlJmvGPdf8TsASOLwop2A/edit?usp=sharing)
 
